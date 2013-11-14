@@ -2,7 +2,7 @@
 
 # Averter!
 
-Averter! is a flash game where the goal is avoidance. Get your red cluster of squares past the green cluster of square in order to get to the blue cluster of squares. You can pass through the white rectangles but the enemy cannot, while he can pass through the black sqaures but you cannot. Every 5 seconds the level changes. See how far you can get!
+Averter! is a flash game where the goal is avoidance. Get your red cluster of squares past the green cluster of square in order to get to the blue cluster of squares. You can pass through the white rectangles but the enemy cannot, while he can pass through the black sqaures but you cannot. Every 5 seconds the level **changes**. See how far you can get!
 
 This code was written in Haxe with OpenFL. SoundFX were created with CFXR and the background music was generated with Otomata. The graphics were drawn in GIMP.
 
